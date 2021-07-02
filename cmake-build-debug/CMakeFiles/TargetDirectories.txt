@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/Actividad12/cmake-build-debug/CMakeFiles/Actividad12.dir
+C:/Users/ALDAS/CLionProjects/Actividad12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/Actividad12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
